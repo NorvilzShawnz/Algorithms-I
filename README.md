@@ -1,9 +1,11 @@
 # Algorithms-I
 Princeton Algorithms I course on coursera.
 
-As1 - Hello World, specification - https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php
+**As1** :  
+Hello World, specification - https://coursera.cs.princeton.edu/algs4/assignments/hello/specification.php
 
-As2 - Percolation, specification - https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+**As2** : 
+Percolation, specification - https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
 
 As3 - Dequeues and Randomized Queues, specification - https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
 
